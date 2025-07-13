@@ -1,0 +1,28 @@
+```mairmaid
+---
+config:
+  theme: forest
+  fontFamily: verdana
+---
+treemap-beta
+"Substance"
+    "Matérielle"
+      "Organique"
+        "Animale"
+          "Intelligente = Homme":80
+          "Bête":25
+        "Végétale":30
+      "Inorganique"
+        "Minérale":30
+        "Gazeuse":30
+    "Immatérielle"
+      "Anges": 51
+"Accident"
+    "Quantité": 10
+    "Relation": 10
+    "Lieu": 10
+    "Temps": 10
+    "Position":10
+    "Passion":10
+    "Possesion":10
+```
