@@ -1,0 +1,23 @@
+---
+config:
+  theme: forest
+  themeVariables:
+    fontFamily: verdana
+---
+timeline
+    title Agenda du cours de HLP Première
+    section Septembre -> Vacances de la Toussaint
+        Introduction : Philosophe ≠ Sophiste
+        La parole, un art et des séductions : Documentaire "Propaganda" : Techniques de manipulations avec Edward Bernays et Haldous Huxley : Le Gorgias de Platon
+    section Novembre -> Vacances de Noël
+        L'art de la parole : Le triangle rhétorique : Logos, le fonctionnement de l'intelligence : Ethos, la fortification des vertus : Pathos, la modération des émotions et des désirs : Aristote et les Réfutations Sophistiques
+        L'Autorité de la parole : Pouvoir et Autorité : Un aperçu de la vision de l'autorité dans l'Énéide de Virgile : La modération d'Auguste comparée à la folie de Calligula dans Vies des douze Césars de Suétone : Débat, Est-ce facile d'avoir de l'autorité grâce à la parole ?
+    section Janvier -> Vacances d'hiver
+        Découverte du monde : L'Affaire Galilée, géocentrisme et héliocentrisme : Étienne Klein sur Galilée : Olivier Rey sur Galilée
+        Pluralité des culture : La Traite des Noirs en Afrique, aperçu historique : La Reine de France Bathilde (630-680) épouse de Clovis II, abolit l'esclavage vers 660 sur la terre de France : 1685 Le code noir de Colbert, sous Louis XIV : Montesquieu et Condorcet dénonçant l'esclavage 
+    section Mars -> Vacances de printemps      
+        Décrire, figurer, imaginer : La fable des Abeilles de Bernard Mandeville : Une histoire souterraine du capitalisme selon Dany-Robert Dufour
+        Décrire, figurer, imaginer : La Nouvelle Atlantide de Francis Bacon : Les Magnalia Naturae : Un rêve d'oligarchie techno-scientifique précurseur du transhumanisme ?
+    section Mai -> Libération
+        
+        L'homme et l'animal : Différence entre l'homme et l'animal : Intelligence ≠ Instict : Concept et définition : Peut-on parler légitimement d'un langage animal ?
