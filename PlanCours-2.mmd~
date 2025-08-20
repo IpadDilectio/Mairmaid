@@ -1,0 +1,21 @@
+---
+config:
+  theme: forest
+  themeVariables:
+    fontFamily: verdana
+---
+timeline
+    title Agenda du cours de philosophie
+    section Septembre -> Vacances de la Toussaint
+        Introduction : Tempérance et philosophie : Les Émotions : Philosophe ≠ Sophiste : Méthode de dissertation
+        Fonctionnement de l'intelligence : Vue d'ensemble : Simple appréhension : Querelle des Universaux : Définition, Prédicables, Catégories : Jugement : Vérité : Raisonnement et Méthode Socratique : Science
+        Philosophie morale : Faux-Amis de la liberté et désirs mimétiques : Volonté et Libre Arbitre : Liberté d'Indifférence et Liberté de Qualité : Conscience et conscience morale : Syndérèse, Entraves à la syndérèse, vertu de Prudence :  Ressentiment et "Into The Wild" : Pardon et chemin du pardon
+    section Novembre -> Vacances de Noël
+        Philosophie morale : Bonheur : Vertus : Prudence : Justice <br>(= Justice Morale) : Courage : Tempérance : Valeur et Devoir : Inconscient chez Freud : Critique de Freud
+    section Janvier -> Vacances d'hiver
+        Philosophie politique : Méthode d'étude ordonnée : Religion : Tolérance : Laïcité : Transhumanisme : État et Régimes Politiques : Démocratie et République : Spirale Mimétique de la Violence : Justice Politique : Banalité du mal
+    section Mars -> Vacances de printemps
+        Philosophie de l'existence humaine et de la culture : Temps chez Augustin : Temps chez Bergson : Temps chez Byung-Chul Han : Zizannie et injustices langagières : Honnêté et Honneur : Considérations morales d'Hannah ARENDT : Nature, Risque, Péril, Danger : Technique et Technologie : Travail, Œuvre, Action 
+    section Mai -> Libération
+        Philosophie de l'existence humaine et de la cutlure : Aliénation au monde, Honte Prométhéenne : Techno-cocon ou retour à la Contemplation ? : De la beauté : Artisan et Artiste : L'art chez Hannah Arendt : L'art chez Bergson
+        Révisions : Fonctionnement de l'intelligence : Philosophie morale : Philosophie politique : Philosophie de l'existence humaine
