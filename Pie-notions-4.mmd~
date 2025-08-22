@@ -1,0 +1,11 @@
+---
+config:
+  theme: default
+---
+%% Il y a en tout 18 notions en comptant l'œuvre, il faut donc que la somme des 3 premières catégories fasse 18
+pie
+    title --> Progression d'année au niveau des notions
+    "Notions Vues" : 0
+    "Notions en cours" : 7
+    "Notions futures" : 11
+    "Notions révisées" : 0
