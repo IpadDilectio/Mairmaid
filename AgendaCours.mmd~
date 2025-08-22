@@ -1,0 +1,21 @@
+---
+config:
+  theme: forest
+  themeVariables:
+    fontFamily: verdana
+---
+timeline
+    title Agenda du cours de philosophie
+    section Septembre -> Vacances de la Toussaint
+        Introduction : Peut-on philosopher sans discipline ? : Les émotions peuvent-elles entraver notre pensée ? : Peut-on confondre le philosophe et le sophiste ? : Méthode de dissertation
+        Fonctionnement de l'intelligence : L’homme n’est-il qu’un animal ? : Pouvons-nous comprendre la réalité ? : Nos concepts correspondent-ils aux réels ? : Est-ce si facile de définir un concept ? : Pouvons-nous connaître les choses réelles ? : La vérité est-elle accessible ? : La démonstration peut-elle nous aider à mieux connaître le réel ? : La science peut-elle conduire à la certitude ?
+        Philosophie morale : Nos désirs sont-ils compatibles avec notre liberté ? : Pouvons-nous être libres sans volonté ? : La liberté se réduit-elle à suivre nos émotions ? : Dans ma vie actuelle ma conscience est-elle éveillée ou entravée ? : Notre conscience peut-elle être éclairée ? : Le ressentiment paralyse-t-il la conscience ? : Notre conscience peut-elle être libérée du ressentiment ? 
+    section Novembre -> Vacances de Noël
+        Philosophie morale : Le bonheur dépend-il de nous ? : Pouvons-nous être heureux sans vertu ? : Pouvons-nous être trop prudents ? : L’injustice peut-elle rendre heureux ? : Nos rêves peuvent-ils se réaliser sans courage ? : Puis-je être heureux en écoutant mes émotions ? : Le devoir moral est-il incompatible avec le bonheur ? : Notre conscience sait-elle toujours ce qu’elle fait ? : Freud s’est-il trompé ?
+    section Janvier -> Vacances d'hiver
+        Philosophie politique : Méthode d'étude ordonnée : N’y a-t-il qu’une manière de définir la notion de religion ? : Est-il possible de vivre ensemble sans tolérance ? : N’existe-t-il qu’une seule conception de la laïcité ? : Le transhumanisme est-il une nouvelle religion ? : L’État suffit-il pour contenir la violence et éviter les guerres ? : Une république peut-elle être démocratique ? : La vengeance peut-elle conduire à la paix ? : La justice politique peut-elle se passer de la monnaie ? : Le mal peut-il devenir banal ?
+    section Mars -> Vacances de printemps
+        Philosophie de l'existence humaine et de la culture : Peut-on connaître ce qu’est le temps ? : Notre moi profond se développe-t-il avec le temps ? : Le smartphone modifie-t-il notre perception temporelle ? : La zizanie est-elle évitable ? : Le langage peut-il blesser notre honneur ? : Est-il possible d’éviter la banalité du mal ? : La nature est-elle dangereuse ? : Nos techniques et nos technologies sont-elles dangereuses pour la nature ? : Travailler et Œuvrer est-ce la même chose qu’Agir ? 
+    section Mai -> Libération
+        Philosophie de l'existence humaine et de la cutlure : Nos activités humaines peuvent-elles devenir des sources d’aliénation ? : Vivons-nous dans un techno-cocon ? : L’art peut-il se passer de la beauté ? : L’artiste est-il un artisan ? : L’artiste éveille-t-il à la réalité ?
+        Révisions : Fonctionnement de l'intelligence : Philosophie morale : Philosophie politique : Philosophie de l'existence humaine
